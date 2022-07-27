@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Krow10",
+  "address": "0x14648e7717dce5f919b453f085541e026c3e3765",
+  "risk": "2",
+  "title": "require() check for order total amount in fillBid() is missing the flat 0.5% fee",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/9"
+}
