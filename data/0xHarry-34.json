@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xHarry",
+  "address": "0xd41d3af25c51ae58c58558d3bffa2241b11b31d5",
+  "risk": "3",
+  "title": "Check if ERC1155 supports interface as `isERC721` is set by user",
+  "issueId": 34,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/34"
+}
