@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Maxime",
+  "address": "0x1269dc18e226e2fa37208da0ffa9899bd4945412",
+  "risk": "2",
+  "title": "No withdraw function in the event some ETH is wrongfully sent to the contracts (GolomTrader and Reward Distributor)",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/55"
+}
