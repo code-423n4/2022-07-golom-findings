@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ignacio",
+  "address": "0xa166faff77a6b23afb23aaaf5f685f9c27896bd2",
+  "risk": "2",
+  "title": "A miner can manipulate the block timestamp which can be used to their advantage to attack a smart contract via Block Timestamp Manipulation",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/6"
+}
