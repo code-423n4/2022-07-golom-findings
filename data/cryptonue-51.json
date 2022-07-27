@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "2",
+  "title": "Claim functions can be called by anyone",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/51"
+}
