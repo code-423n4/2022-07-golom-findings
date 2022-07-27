@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Franfran",
+  "address": "0xdaaa1ba6839a7f04061da8805de5800b152def2f",
+  "risk": "2",
+  "title": "Timelock is overidden if old minter is address(0)",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/54"
+}
