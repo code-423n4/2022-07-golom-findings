@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rotcivegaf",
+  "address": "0xba910716fd4b6b4447aea613993898eeb63844ad",
+  "risk": "2",
+  "title": "Don't check the `onERC721Received` return",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/18"
+}
