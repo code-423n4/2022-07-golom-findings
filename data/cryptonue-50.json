@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "2",
+  "title": "Token total supply is not guaranteed to have a fixed maximum supply limit",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/50"
+}
