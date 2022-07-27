@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kenta",
+  "address": "0xe85d65e3927451ccc130457e75bf83ee1a5b85c6",
+  "risk": "3",
+  "title": "missing validation for the address",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/23"
+}
