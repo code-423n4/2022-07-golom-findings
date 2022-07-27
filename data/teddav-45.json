@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "teddav",
+  "address": "0x76e2a7d7df47b735cd590d33051f2d8d5b8b5a8a",
+  "risk": "3",
+  "title": "VE contract address will always be address(0) in RewardDistributor",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/45"
+}
