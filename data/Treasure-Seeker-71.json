@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "2",
+  "title": "Use of deprecated `transfer` instead of `call` to send ETH",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/71"
+}
