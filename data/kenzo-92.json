@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kenzo",
+  "address": "0x611dabf15f0077c64fdb5067376ad593191e65f3",
+  "risk": "2",
+  "title": "VE's `merge` and `withdraw` can't be called by an address that was approved for the token",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/92"
+}
