@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "AuditsAreUS",
+  "address": "0x2e878D5890d8D6f2650043838936fCF9CEf4E4E2",
+  "risk": "2",
+  "title": "Potential Overlap Between ERC20 and ERC721 Allows For Transferring of ERC20 Tokens Such As WETH",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/69"
+}
