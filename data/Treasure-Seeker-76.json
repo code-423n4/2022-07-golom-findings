@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "2",
+  "title": "Contract non-existence not checked before ERC 721 and ERC 1155 transfers - can cause loss of funds due to all transfers succeeding for those contracts",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/76"
+}
