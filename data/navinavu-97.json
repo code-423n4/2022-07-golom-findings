@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "navinavu",
+  "address": "0xe3d08cd1f359e904b582e1370b5ff69d4bce164e",
+  "risk": "2",
+  "title": "In the `payEther()` function, `address.transfer()` may lead to ether transfers failure due to a fixed amount of forwarded gas.",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/97"
+}
