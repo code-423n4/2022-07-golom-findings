@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "bin2chen",
+  "address": "0x4bb429d6c90d6449c2912b4faa687c7b4a6ace00",
+  "risk": "3",
+  "title": "fillAsk() does not return the overpaid eth, resulting in the extra amount being locked in the contract",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/65"
+}
