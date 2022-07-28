@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kenzo",
+  "address": "0x611dabf15f0077c64fdb5067376ad593191e65f3",
+  "risk": "2",
+  "title": "`removeDelegation` removes token from wrong list",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/83"
+}
