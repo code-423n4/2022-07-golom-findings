@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Treasure-Seeker",
+  "address": "0xdc8eb8d2d1babd956136b57b0b9f49b433c019e3",
+  "risk": "3",
+  "title": "Excess amount not refunded - causing permanent loss of funds",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/77"
+}
