@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kenzo",
+  "address": "0x611dabf15f0077c64fdb5067376ad593191e65f3",
+  "risk": "3",
+  "title": "In criteria bids, there is no relation between token ids and amount",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/89"
+}
