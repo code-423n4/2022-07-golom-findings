@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "obront",
+  "address": "0xf346100e892553dceb41a927fb668da7b0b7c964",
+  "risk": "3",
+  "title": "User can generate unlimited votes by continuously delegating the same token",
+  "issueId": 170,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/170"
+}
