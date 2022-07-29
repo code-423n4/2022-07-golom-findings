@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "benbaessler",
+  "address": "0xf5745cd4d5bc2e3b7352676544ea632a9a30fecd",
+  "risk": "2",
+  "title": "Use safeTransferFrom() instead of transferFrom() for ERC721 transfers",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/187"
+}
