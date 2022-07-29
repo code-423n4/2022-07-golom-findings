@@ -1,9 +1,0 @@
-{
-  "contest": 148,
-  "handle": "MangoBurger",
-  "address": "0x0000000000000000000000000000000000000000",
-  "risk": "G",
-  "title": "Gas Optimizations",
-  "issueId": 150,
-  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/150"
-}
