@@ -1,9 +1,0 @@
-{
-  "contest": 148,
-  "handle": "Krow10",
-  "address": "0x14648e7717dce5f919b453f085541e026c3e3765",
-  "risk": "3",
-  "title": "Repeated calls to `multiStakerClaim` in the same block leads to loss of funds",
-  "issueId": 106,
-  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/106"
-}
