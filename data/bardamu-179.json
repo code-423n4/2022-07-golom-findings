@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "bardamu",
+  "address": "0xE2529459fB873dAeeD4714e76b8601807EF68dFF",
+  "risk": "2",
+  "title": "Use of `transfer` might render payEther unusable",
+  "issueId": 179,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/179"
+}
