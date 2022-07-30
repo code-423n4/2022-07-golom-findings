@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "joestakey",
+  "address": "0xa9c2ce9dcc090af921fb0a1f874962f65a4b6d9b",
+  "risk": "2",
+  "title": "Fake orders bypass `validateOrder` due to lack of check of return of`ecrecover`",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/257"
+}
