@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Jujic",
+  "address": "0x6e1da38f9d9d87ce228234a570d992d4db294fa1",
+  "risk": "2",
+  "title": "Use of transferFrom() rather than safeTransferFrom() for NFTs in the code will lead to the loss of NFTs",
+  "issueId": 233,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/233"
+}
