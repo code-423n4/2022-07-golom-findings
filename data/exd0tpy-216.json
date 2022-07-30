@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "exd0tpy",
+  "address": "0x955916640f96efcd66f4aee595e0a44700a57868",
+  "risk": "3",
+  "title": "VeNFT holder's reward could be smaller than expected when epoch not increase at right time.",
+  "issueId": 216,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/216"
+}
