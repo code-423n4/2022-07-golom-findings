@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "StErMi",
+  "address": "0x2272a321f0151189d66881f5c0971899897ef71b",
+  "risk": "3",
+  "title": "ERC721 Order of `orderType 0` for the same TokenID can be filled multiple times by `taker` via `fillAsk` function",
+  "issueId": 245,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/245"
+}
