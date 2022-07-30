@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "GolomTrader's _settleBalances double counts protocol fee, reducing taker's payout for a NFT sold",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/240"
+}
