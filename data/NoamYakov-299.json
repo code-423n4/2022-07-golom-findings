@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "NoamYakov",
+  "address": "0x972a7c4ee6d0988a010cafb09f794cd1a169293f",
+  "risk": "3",
+  "title": "`IERC20.transferFrom()` doesn't work on non-standard compliant tokens like USDT",
+  "issueId": 299,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/299"
+}
