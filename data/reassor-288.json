@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "reassor",
+  "address": "0xd822554abe37b52e34d0c599ec828dc8c46721ff",
+  "risk": "2",
+  "title": "GolomTrader - cancelOrder can be executed for filled/cancelled orders",
+  "issueId": 288,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/288"
+}
