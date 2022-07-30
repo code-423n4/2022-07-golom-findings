@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "3",
+  "title": "Overspend / Excess amount of ether will be stuck inside contract forever",
+  "issueId": 219,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/219"
+}
