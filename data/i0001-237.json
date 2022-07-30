@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "i0001",
+  "address": "0xf881d6647d8cb6f950fef6a49d896fe34ca9ee52",
+  "risk": "3",
+  "title": "GolomTrader.sol - ERC721 transferFrom not verified if  \"receiver\" does receive it ",
+  "issueId": 237,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/237"
+}
