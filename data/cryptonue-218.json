@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "2",
+  "title": "Using ownable contract without Transfer-accept ownership pattern",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/218"
+}
