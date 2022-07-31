@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "Calling fillAsk will pay ETH for nothing in return for an ask order that is considered valid by validateOrder but has isERC721 been set to true and collection been set to an address of an ERC20 which does not revert but returns false when transfer fails",
+  "issueId": 411,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/411"
+}
