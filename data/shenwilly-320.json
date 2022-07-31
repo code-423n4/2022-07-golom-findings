@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "shenwilly",
+  "address": "0x8b21033337a7066bcff10fe0b3ca2a9da1c58a1d",
+  "risk": "3",
+  "title": "`addFee` will stop accumulating fee once `rewardToken` has reached max supply",
+  "issueId": 320,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/320"
+}
