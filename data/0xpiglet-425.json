@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xpiglet",
+  "address": "0x1f437c943c333d9496b2b43218893469fc465e5d",
+  "risk": "3",
+  "title": "Manipulate voting power by X (doublespend)",
+  "issueId": 425,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/425"
+}
