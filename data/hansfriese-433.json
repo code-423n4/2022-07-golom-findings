@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "VoteEscrowCore._burn() will revert when an approved user(not owner) calls it.",
+  "issueId": 433,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/433"
+}
