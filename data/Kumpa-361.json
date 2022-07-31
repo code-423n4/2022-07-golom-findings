@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Kumpa",
+  "address": "0x9813bb4f6ac2993d67d293ce5ec915661eb539d2",
+  "risk": "3",
+  "title": "No check on ```referrer``` allows the attacker to steal ethers in ```referrAmt``` from the owner's order ",
+  "issueId": 361,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/361"
+}
