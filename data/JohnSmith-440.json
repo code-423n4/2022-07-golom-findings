@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "JohnSmith",
+  "address": "0xa5dc960468979961690b042aa188793e2d22e2dd",
+  "risk": "2",
+  "title": "Usage of deprecated transfer to send ETH",
+  "issueId": 440,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/440"
+}
