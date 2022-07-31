@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "djxploit",
+  "address": "0x2635bbab233b9a1cd7703e6c4b80fe39055971d6",
+  "risk": "3",
+  "title": "The protocol doesn't support USDT like ERC20 non-compliant coins",
+  "issueId": 373,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/373"
+}
