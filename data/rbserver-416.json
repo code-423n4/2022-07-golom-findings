@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "No fees are paid to reward distributor when calling fillAsk or _settleBalances for an order that is considered valid by validateOrder but has totalAmt < 200, especially for fractional NFTs",
+  "issueId": 416,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/416"
+}
