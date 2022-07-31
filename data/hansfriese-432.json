@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "3",
+  "title": "VoteEscrowDelegation._writeCheckpoint() will revert when nCheckpoints = 0.",
+  "issueId": 432,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/432"
+}
