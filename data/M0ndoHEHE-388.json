@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "M0ndoHEHE",
+  "address": "0x658F1dbfd5a2a11Ce5a7960fDA6974d1C222eC27",
+  "risk": "3",
+  "title": "arbitrary referrer can lead to stealing fees",
+  "issueId": 388,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/388"
+}
