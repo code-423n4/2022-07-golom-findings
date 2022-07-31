@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "luckypanda",
+  "address": "0x80cbd9813e2731190b4146951832e3448db938ad",
+  "risk": "3",
+  "title": "Missing WETH balance check",
+  "issueId": 332,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/332"
+}
