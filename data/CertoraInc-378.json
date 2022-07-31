@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "The delegate function won't work for the first delegation, which leads to it not working at all",
+  "issueId": 378,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/378"
+}
