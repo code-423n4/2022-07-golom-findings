@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Green",
+  "address": "0x5156b0072568905afd2f57fc1f4c0de48fa86bf3",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 427,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/427"
+}
