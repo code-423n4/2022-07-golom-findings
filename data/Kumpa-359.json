@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Kumpa",
+  "address": "0x9813bb4f6ac2993d67d293ce5ec915661eb539d2",
+  "risk": "2",
+  "title": "Use ```transferFrom``` for ERC721 could cause the token to be locked when sent to the contract that is unable to receive ERC721 ",
+  "issueId": 359,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/359"
+}
