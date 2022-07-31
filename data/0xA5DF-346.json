@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xA5DF",
+  "address": "0x04dfb55f65e89aaf26bf198ed87fb77a8a2b7260",
+  "risk": "3",
+  "title": "`VoteEscrowDelegation.delegate` doesn't remove old delegation, allowing user to multiply his voting power endlessly",
+  "issueId": 346,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/346"
+}
