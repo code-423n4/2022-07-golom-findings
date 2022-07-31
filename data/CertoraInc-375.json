@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "Missing check of the return value of `transfer` for `ERC20`s",
+  "issueId": 375,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/375"
+}
