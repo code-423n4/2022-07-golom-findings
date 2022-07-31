@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ladboy233",
+  "address": "0xe1faaeb0d29c9cf411cbd47daab14a21ebe266a4",
+  "risk": "3",
+  "title": "missing amount check when purchasing ERC1155 NFT token.",
+  "issueId": 417,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/417"
+}
