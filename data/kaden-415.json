@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kaden",
+  "address": "0x3111327edd38890c3fe564afd96b4c73e8101747",
+  "risk": "3",
+  "title": "Protocol fees will be locked in the `RewardDistributor` contract once reward token `totalSupply` exceeds 1 billion",
+  "issueId": 415,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/415"
+}
