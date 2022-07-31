@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ElKu",
+  "address": "0x819681641e07e80f817a34f82400debcc2579b98",
+  "risk": "3",
+  "title": "Seller gets paid less for Ordertypes 1 and 2 when more than one ERC1155 tokens are traded",
+  "issueId": 337,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/337"
+}
