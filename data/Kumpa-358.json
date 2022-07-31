@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Kumpa",
+  "address": "0x9813bb4f6ac2993d67d293ce5ec915661eb539d2",
+  "risk": "2",
+  "title": "Mistakenly set ```amount``` to zero in ```fillAsk``` could cause the caller's ethers to be locked in the contract",
+  "issueId": 358,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/358"
+}
