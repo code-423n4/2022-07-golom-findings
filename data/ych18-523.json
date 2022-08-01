@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ych18",
+  "address": "0x02435fb305d2bba609e044279c50498abe279380",
+  "risk": "2",
+  "title": "Extra ether send by the user will be locked",
+  "issueId": 523,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/523"
+}
