@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429c6d3340449bc828e4218f360672",
+  "risk": "2",
+  "title": "No check for address(0) on distributor can DOS GolomTrader",
+  "issueId": 676,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/676"
+}
