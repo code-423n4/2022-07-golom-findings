@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RustyRabbit",
+  "address": "0x7f8f0ba2691f25689ca3ca9e06fae5a69f2c5498",
+  "risk": "3",
+  "title": "To much protocol fee is being withheld in _settleBalances() which makes the taker of a bid receive less than expected ETH",
+  "issueId": 711,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/711"
+}
