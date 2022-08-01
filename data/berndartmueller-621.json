@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "berndartmueller",
+  "address": "0x6a897b32996d342535791a74b8a40e75ddf2486e",
+  "risk": "2",
+  "title": "Owner of the `GolomToken` contract can change the `minter` address without a timelock",
+  "issueId": 621,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/621"
+}
