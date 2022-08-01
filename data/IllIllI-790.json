@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "3",
+  "title": "Non-self-delegation breaks delgation accounting",
+  "issueId": 790,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/790"
+}
