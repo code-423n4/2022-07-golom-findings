@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xsolstars",
+  "address": "0x1DBdFB46085a17C3AdB146561EFE7b0e43a8B785",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 911,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/911"
+}
