@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "supernova",
+  "address": "0x1b37b1ec6b7faacbb9addcca4043824f36fb88d8",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 729,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/729"
+}
