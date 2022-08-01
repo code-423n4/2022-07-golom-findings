@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xDjango",
+  "address": "0x886241e011a6c148bdd96b097eb27962f8a1c5f0",
+  "risk": "3",
+  "title": "Exact bid payments will fail due to > instead of >=",
+  "issueId": 692,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/692"
+}
