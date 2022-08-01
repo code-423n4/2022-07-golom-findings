@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "bearonbike",
+  "address": "0xd7f3D54C5FE1f81aD5769A5859b4Bd0c90ec1BD7",
+  "risk": "2",
+  "title": "Use deprecated transfer() to send ether may cause revert",
+  "issueId": 538,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/538"
+}
