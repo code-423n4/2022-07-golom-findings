@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "StyxRave",
+  "address": "0x55118951ac44b0f58b9382211bdf58149ef13333",
+  "risk": "2",
+  "title": "Use of deprecated `transfer` function to send ETH",
+  "issueId": 923,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/923"
+}
