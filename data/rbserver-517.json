@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Calling fillAsk, fillBid, or fillCriteriaBid will revert for an ERC721 order that is considered valid by validateOrder but has isERC721 been set to false",
+  "issueId": 517,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/517"
+}
