@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RustyRabbit",
+  "address": "0x7f8f0ba2691f25689ca3ca9e06fae5a69f2c5498",
+  "risk": "3",
+  "title": "Use of hard to interpret data in EIP712 signature can lead to loss of funds.",
+  "issueId": 715,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/715"
+}
