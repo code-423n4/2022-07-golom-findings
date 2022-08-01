@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "brgltd",
+  "address": "0xb18b052b674c0ce5e2649ed4e45bb8da2cb70851",
+  "risk": "2",
+  "title": "Users should not be able to call the fillAsk function before the owner calls setDistributor in GolomTrader.sol",
+  "issueId": 881,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/881"
+}
