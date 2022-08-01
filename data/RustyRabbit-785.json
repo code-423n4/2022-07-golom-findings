@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RustyRabbit",
+  "address": "0x7f8f0ba2691f25689ca3ca9e06fae5a69f2c5498",
+  "risk": "2",
+  "title": "Time delay of 1 day for minter while tokens are locked up for up to 4 years doesn't give locked up tokens a way to exit within the time delay.",
+  "issueId": 785,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/785"
+}
