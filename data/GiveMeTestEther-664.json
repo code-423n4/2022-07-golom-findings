@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "2",
+  "title": "RewardDistributor.stakerRewards() reverts with division by zero if there is an epoch without any staked amount",
+  "issueId": 664,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/664"
+}
