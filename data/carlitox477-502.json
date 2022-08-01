@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "carlitox477",
+  "address": "0x19a7407430a31a81df83f54b66805402577fadd3",
+  "risk": "3",
+  "title": "GolemTrader.sol: fillBid allows draining funds and NFT from users and GolomTrader Eth through _settleBalances call",
+  "issueId": 502,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/502"
+}
