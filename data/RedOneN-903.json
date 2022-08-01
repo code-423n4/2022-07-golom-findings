@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RedOneN",
+  "address": "0x19f2cdd5aaa2cdebce40caf2005543393b6e3d3c",
+  "risk": "2",
+  "title": "Claiming previous epoch rewards should be restricted to the rewards holder. ",
+  "issueId": 903,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/903"
+}
