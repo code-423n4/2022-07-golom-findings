@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "kebabsec",
+  "address": "0xB2fbcF2Fb1Eb86464d60F04bEd4065404cD67e18",
+  "risk": "2",
+  "title": "Timelock of `executeSetMinter` can be bypassed to obscure the new minter address ",
+  "issueId": 759,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/759"
+}
