@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xackermann",
+  "address": "0x1f327224c77cd15dedb2c063f25cc0d2151933d3",
+  "risk": "3",
+  "title": "Incorrect Value for Airdrop Claim",
+  "issueId": 473,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/473"
+}
