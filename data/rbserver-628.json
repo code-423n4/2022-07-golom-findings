@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "ERC721 token can be locked when calling fillAsk, fillBid, or fillCriteriaBid to transfer it to a contract that does not support ERC721 protocol",
+  "issueId": 628,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/628"
+}
