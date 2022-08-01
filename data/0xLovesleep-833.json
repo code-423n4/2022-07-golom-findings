@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xLovesleep",
+  "address": "0xf9150921d683198f341576de31c22e67bedc59a6",
+  "risk": "2",
+  "title": "Divide before multiply can result in an unexpected result",
+  "issueId": 833,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/833"
+}
