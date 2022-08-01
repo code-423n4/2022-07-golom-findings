@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "`VoteEscrowCore.merge` does not check against lock expiration, breaking assumptions in `VoteEscrowCore._deposit_for` and `VoteEscrowCore._checkpoint`",
+  "issueId": 656,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/656"
+}
