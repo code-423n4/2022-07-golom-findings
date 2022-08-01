@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "berndartmueller",
+  "address": "0x6a897b32996d342535791a74b8a40e75ddf2486e",
+  "risk": "3",
+  "title": "Ether trading fees are collected but unable to be distributed to `veNFT` holders after reaching the maximum reward token supply",
+  "issueId": 607,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/607"
+}
