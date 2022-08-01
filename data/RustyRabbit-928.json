@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RustyRabbit",
+  "address": "0x7f8f0ba2691f25689ca3ca9e06fae5a69f2c5498",
+  "risk": "2",
+  "title": "Owner can set an EOA as minter and mint tokens for themselves before the minter is set to the RewardDistributor.",
+  "issueId": 928,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/928"
+}
