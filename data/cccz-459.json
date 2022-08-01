@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "2",
+  "title": "VoteEscrowCore: voter can prohibit users from transferring or withdrawing assets by calling voting and attach functions",
+  "issueId": 459,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/459"
+}
