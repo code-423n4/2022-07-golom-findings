@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Limbooo",
+  "address": "0xc6f724a983644752b0c445f9e802475a50df666b",
+  "risk": "3",
+  "title": " Wrong arithmetic operation upon filling a bid order, lead to lost amount of ether on user funds",
+  "issueId": 895,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/895"
+}
