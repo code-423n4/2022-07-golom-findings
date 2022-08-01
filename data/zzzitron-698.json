@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "2",
+  "title": "Some setters' timelock can be bypassed",
+  "issueId": 698,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/698"
+}
