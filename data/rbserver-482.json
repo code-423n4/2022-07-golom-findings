@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "Because vote escrow cannot be set in RewardDistributor, Golom token amount for daily emission is always 600000 * 10**18, and staking reward is always 0 and cannot be viewed or claimed",
+  "issueId": 482,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/482"
+}
