@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "0xNineDec",
+  "address": "0x764312ef291900ef32be90dd3eb5a1bfa6788e84",
+  "risk": "2",
+  "title": "CALL() Should Be Used Instead Of TRANSFER()",
+  "issueId": 584,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/584"
+}
