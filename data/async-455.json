@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "async",
+  "address": "0x7841f2064bbaf90127ca0eed5b004020bf9ca819",
+  "risk": "3",
+  "title": "_writeCheckpoint does not write to storage on same block",
+  "issueId": 455,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/455"
+}
