@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rajatbeladiya",
+  "address": "0x6840a08b4e51cd863bbe6c902b60c59dbca85f97",
+  "risk": "2",
+  "title": "not able to set voteEscrow contract address to RewardDistributor",
+  "issueId": 533,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/533"
+}
