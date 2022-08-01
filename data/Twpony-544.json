@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Twpony",
+  "address": "0x8f66af4fecfef97f4e3edd758e9f14ce098eec77",
+  "risk": "3",
+  "title": "delegate() can increase the votes for any tokenID unlimitedly ",
+  "issueId": 544,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/544"
+}
