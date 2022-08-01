@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Calling fillBid or fillCriteriaBid will revert for an order that is considered valid by validateOrder but has totalAmt been not enough to cover fee for reward distributor and/or extra payment",
+  "issueId": 580,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/580"
+}
