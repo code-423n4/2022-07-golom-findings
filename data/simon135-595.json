@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "2",
+  "title": "If `delegate.nCheckpoints=0` because of a fresh `tokenId` getting minted then `delegate` function will revert",
+  "issueId": 595,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/595"
+}
