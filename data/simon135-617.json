@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "3",
+  "title": "attacker can drain funds from the contract and maybe even dos the user trying to call this function",
+  "issueId": 617,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/617"
+}
