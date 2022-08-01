@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ellahi",
+  "address": "0x154db26c46b35002f5ebd7b4a5d18b3290411b70",
+  "risk": "2",
+  "title": " ERC721 unsafe transfers may result in tokens being lost.",
+  "issueId": 949,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/949"
+}
