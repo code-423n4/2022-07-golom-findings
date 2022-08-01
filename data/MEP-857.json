@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "MEP",
+  "address": "0x999a700e94f9b6bbc464d59f879234a05dea89c3",
+  "risk": "2",
+  "title": "The function `stakerRewards` will run out of gas at a certain time",
+  "issueId": 857,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/857"
+}
