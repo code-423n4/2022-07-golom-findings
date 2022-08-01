@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "RustyRabbit",
+  "address": "0x7f8f0ba2691f25689ca3ca9e06fae5a69f2c5498",
+  "risk": "3",
+  "title": "No 2-step mechanism (transfer from old to new/claim from new) for transfering ownership. ",
+  "issueId": 899,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/899"
+}
