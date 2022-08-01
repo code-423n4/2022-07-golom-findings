@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "Bahurum",
+  "address": "0x95d027b6f515827e023f7610220eeb0ea3bf4b3c",
+  "risk": "3",
+  "title": "User can delegate the vote of a token multiple times",
+  "issueId": 748,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/748"
+}
