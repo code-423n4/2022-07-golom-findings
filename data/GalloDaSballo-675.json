@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429c6d3340449bc828e4218f360672",
+  "risk": "3",
+  "title": "Shared Voting Power via `delegate` and Checkpoint due to incorrect `removeDelegation`",
+  "issueId": 675,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/675"
+}
