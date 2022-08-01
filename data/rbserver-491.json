@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "For an ERC721 ask order, created by User A, that is considered valid by validateOrder but has tokenAmt > 1, calling fillAsk by User C will revert if User B has called fillAsk for this order already",
+  "issueId": 491,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/491"
+}
