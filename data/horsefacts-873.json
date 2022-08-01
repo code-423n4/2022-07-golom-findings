@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "horsefacts",
+  "address": "0x79d31bfca5fda7a4f15b36763d2e44c99d811a6c",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 873,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/873"
+}
