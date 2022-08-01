@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "dipp",
+  "address": "0x675454ae78d25632fc26763fa9cb72a99cb0a36e",
+  "risk": "2",
+  "title": "```removeDelegation``` does not prevent previous delegatees from controlling a token",
+  "issueId": 799,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/799"
+}
