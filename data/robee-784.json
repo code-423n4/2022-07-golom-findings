@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "robee",
+  "address": "0x8b8f9a972b19a26287b28162e49787a1f3ec5a32",
+  "risk": "2",
+  "title": "Transfer return value of a general ERC20 is ignored",
+  "issueId": 784,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/784"
+}
