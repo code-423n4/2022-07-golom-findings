@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "Extra msg.value will be locked in GolomTrader contract if too much msg.value are paid when calling fillAsk",
+  "issueId": 486,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/486"
+}
