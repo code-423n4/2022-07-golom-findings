@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "sahar",
+  "address": "0x86ab7f14002412fb8609c670c3e49f949aed3989",
+  "risk": "2",
+  "title": "returning an unknown length array as function return parameter",
+  "issueId": 814,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/814"
+}
