@@ -1,0 +1,9 @@
+{
+  "contest": 148,
+  "handle": "ak1",
+  "address": "0xf7a08c2c341bde5e17103d4780d1b465011a2a31",
+  "risk": "3",
+  "title": "Incorrect State Variable update in ```_writeCheckpoint``` function in ```VoteEscrowDelegation.sol''' will affect the entire VoteEscrow mechanism",
+  "issueId": 767,
+  "issueUrl": "https://github.com/code-423n4/2022-07-golom-findings/issues/767"
+}
