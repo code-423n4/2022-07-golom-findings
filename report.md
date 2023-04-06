@@ -1,7 +1,7 @@
 ---
 sponsor: "Golom"
 slug: "2022-07-golom"
-date: "2022-11-⭕"  # the date this report is published to the C4 website
+date: "2023-04-05"
 title: "Golom contest"
 findings: "https://github.com/code-423n4/2022-07-golom-findings/issues"
 contest: 148
